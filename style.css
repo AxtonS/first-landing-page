@@ -122,8 +122,8 @@ ul a {
     font-weight: 600;
     align-self: flex-end;
 }
-/* footer styles */
-.footer {
+/* call to action styles */
+.call {
     align-self: center;
     display: flex;
     justify-content: space-between;
@@ -137,11 +137,11 @@ ul a {
     padding: 3vh 4vw;
     width: 55vw;
 }
-.footer .title {
+.call .title {
     font-size: 24px;
     padding-bottom: 1vh;
 }
-.footer button {
+.call button {
     background-color: #3882F6;
     color: #F9FAF8;
     border: outset;
@@ -150,4 +150,12 @@ ul a {
     padding: 1vh 2vw;
     display: inline-block;
     max-width: max-content;
+}
+/* footer styles */
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 16px;
+    text-align: center;
+    padding: 5vh 0;
 }
