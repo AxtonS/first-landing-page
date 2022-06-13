@@ -1,4 +1,5 @@
-Welcome to the README!
+Welcome to the README!  
+You can check out the page at: https://axtons.github.io/first-landing-page/  
 My name is Axton Smith
 I am learning web development,
 flexbox was tricky thus far,
